@@ -5,11 +5,7 @@ It features a **responsive design**, **smooth animations**, and **comprehensive 
 
 ---
 
-## 🚀 Live Demo  
-
-
----
-
+  
 ## ✨ Features  
 
 ### ⚙️ Core Functionality  
