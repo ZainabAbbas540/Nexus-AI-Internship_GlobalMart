@@ -4,7 +4,8 @@ A **modern**, **production-ready** e-commerce application built with **React**, 
 It features a **responsive design**, **smooth animations**, and **comprehensive shopping cart functionality**.  
 
 ---
-
+Preview: https://global-mart-internship.netlify.app/
+---
   
 ## ✨ Features  
 
